@@ -24,7 +24,7 @@ I'm a passionate developer from **Belo Horizonte - MG, Brazil**.
 
 ### 🌐 Social media
 <p align="left">
-  <a href="https://www.linkedin.com/in/nathan-carlos-81794030b" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="text-decoration: none;">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/neitannx" target="_blank">
