@@ -16,10 +16,8 @@ I'm a passionate developer from **Belo Horizonte - MG, Brazil**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/376350/spring.svg" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452234/java.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="40" height="40"/>
-  
+  <img src="https://www.svgrepo.com/show/376350/spring.svg" width="40" height="40"/>
   
 </p>
 
