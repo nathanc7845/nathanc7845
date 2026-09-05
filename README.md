@@ -51,7 +51,7 @@ os          Linux · Windows · macOS
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=neitannx&hide_border=true&background=00002A&ring=4EA4CC&fire=4EA4CC&currStreakLabel=4EA4CC&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4E6A9C" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=nathanc7845&hide_border=true&background=00002A&ring=4EA4CC&fire=4EA4CC&currStreakLabel=4EA4CC&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=4E6A9C" width="60%" />
 
 </div>
 
@@ -75,5 +75,5 @@ os          Linux · Windows · macOS
 <br>
 
 <div align="center">
-<img src="assets/banner-footer.svg" width="100%"/>
+
 </div>
