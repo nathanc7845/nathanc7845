@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/banner-hero.svg" width="100%"/>
 
 <br>
 
@@ -47,8 +46,8 @@ os          Linux · Windows · macOS
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=neitannx&show_icons=true&hide_border=true&bg_color=00002A&title_color=4EA4CC&icon_color=4E6A9C&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neitannx&layout=compact&hide_border=true&bg_color=00002A&title_color=4EA4CC&text_color=ffffff&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nathanc7845&show_icons=true&hide_border=true&bg_color=00002A&title_color=4EA4CC&icon_color=4E6A9C&text_color=ffffff&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanc7845&layout=compact&hide_border=true&bg_color=00002A&title_color=4EA4CC&text_color=ffffff&langs_count=8" width="40%" />
 
 <br><br>
 
